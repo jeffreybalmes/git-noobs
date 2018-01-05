@@ -20,3 +20,16 @@ html {
 h1 {
     margin: 0;
 }
+
+button {
+    background-color: deepskyblue;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px #888;
+}
