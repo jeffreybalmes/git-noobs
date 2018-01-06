@@ -5,5 +5,5 @@ button.addEventListener('click', titleColor);
 
 function titleColor() {
     document.querySelector('h1').style.color = 'deepskyblue';
-    para.style.color = 'deepskyblue';
+    para.style.color = 'blue';
 }
